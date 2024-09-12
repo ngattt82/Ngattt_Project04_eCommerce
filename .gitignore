@@ -21,3 +21,19 @@ build/
 # Ignore sensitive files
 .env
 secret_config.yml
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
