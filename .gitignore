@@ -1,0 +1,23 @@
+# Ignore dependency directories
+node_modules/
+venv/
+target/
+build/
+
+# Ignore IDE project files
+*.iml
+.idea/
+*.vscode/
+
+# Ignore compiled or generated files
+*.class
+*.log
+*.tmp
+.DS_Store
+*.jar
+*.war
+*.zip
+
+# Ignore sensitive files
+.env
+secret_config.yml
